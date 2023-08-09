@@ -8,4 +8,4 @@ CMG Hacks is a free browser extension that adds a instant Skip Ad button, and re
 
 [Firefox](https://addons.mozilla.org/en-CA/firefox/addon/cmg-hacks/)
 
-[Safari](https://math-boy11.github.io/CMG-Hacks/CMG%20Hacks/CMG%20Hacks.dmg)
+[Safari](https://math-boy11.github.io/CMG-Hacks/safari/CMG%20Hacks.dmg)
